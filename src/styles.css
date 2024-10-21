@@ -1,0 +1,9 @@
+body {
+    background-size: cover; 
+    background-position: center; 
+    background-repeat: no-repeat; 
+    margin: 0; 
+    height: 100vh; 
+    color: #fff; 
+    background-color: #f3bb7b;
+}
